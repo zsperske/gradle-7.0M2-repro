@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979421900744",
+    "project_id": "gradlerepro",
+    "storage_bucket": "gradlerepro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979421900744:android:4ba04792941cb3fd3bdafd",
+        "android_client_info": {
+          "package_name": "com.sperske.gradlerepro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979421900744-c412cn9p0lfuimncabdus2ljml8kkdfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBr5b-gP-H0kPcIJFOTCVpayQwTtvNGlI0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979421900744-c412cn9p0lfuimncabdus2ljml8kkdfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
